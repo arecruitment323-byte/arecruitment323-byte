@@ -1,15 +1,22 @@
 ## 👋 Hi, I'm arecruitment323-byte
 
 ## 🚀 Skills
-## 🧩 Tech Stack Icons | أيقونات المهارات
+
+> Multidisciplinary professional combining technology, business operations, Saudi regulations, and practical execution.  
+> مختص متعدد المجالات يجمع بين التقنية، إدارة الأعمال، فهم الأنظمة السعودية، والتنفيذ العملي.
+
+---
+
+## 🧩 Tech Stack & Domains | التقنيات والمجالات
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=python,js,ts,java,cpp,cs,php,html,css,react,nodejs,mysql,postgres,mongodb,git,github,docker,linux,windows,figma,canva" />
+  <img src="https://skillicons.dev/icons?i=python,js,ts,java,cpp,cs,php,html,css,git,github,linux,windows,docker,figma,canva,vscode,postman,bash,powershell" />
 </p>
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=vscode,postman,nginx,bash,powershell" />
-</p>
+**Domains:** 💻 Tech | 🌐 Web | 🖥 IT | 🌐 Networking | 🧑‍💼 HR | 💰 Finance | ⚖ Law & Compliance | 🏛 Saudi Regulations | 📊 Feasibility & Analysis | 🎨 Design | 📄 Documentation & Templates
+
+---
+
 ## 🧠 Skills, Capabilities & Expertise | المهارات والقدرات والخبرات
 
 ---
@@ -109,99 +116,123 @@
 
 ## 📊 Microsoft Office & Productivity | مايكروسوفت وأدوات الإنتاج
 ### Excel
-- Advanced Formulas & Pivot Tables
-- Dashboards & Reports
-- Financial & HR Models
-- Data Cleaning & Validation
+- Advanced Formulas & Pivot Tables — صيغ متقدمة وجداول محورية
+- Dashboards & Reports — لوحات تحكم وتقارير
+- Financial & HR Models — نماذج مالية وموارد بشرية
+- Data Cleaning & Validation — تنظيف وتدقيق البيانات
+- Templates & Professional Sheets — قوالب احترافية
 
 ### Word
-- Professional Documents
-- Policies & Internal Regulations
-- Contracts & Forms
-- Arabic / English Formatting
+- Professional Documents — مستندات احترافية
+- Policies & Internal Regulations — سياسات ولوائح داخلية
+- Contracts & Forms — عقود ونماذج
+- Arabic / English Formatting — تنسيق عربي/إنجليزي احترافي
+- Company Templates — قوالب شركات
 
 ### PowerPoint
-- Executive & Strategy Presentations
-- Investor Decks
-- Data Visualization
-- Clear Story Flow
+- Executive & Strategy Presentations — عروض تنفيذية واستراتيجية
+- Investor Decks — عروض مستثمرين
+- Data Visualization — عرض البيانات بصريًا
+- Clear Story Flow — سرد وتسلسل واضح
+
+### Other Tools
+- Google Docs / Sheets / Slides
+- PDF Design & Editing (incl. fillable forms) — تصميم وتحرير PDF
+- Cloud Collaboration Tools — أدوات العمل السحابي
 
 ---
 
 ## 🧾 Forms, Templates & Documentation | النماذج والتوثيق
-- Professional Forms (Digital & Paper)
-- HR / Financial / Administrative Forms
-- Company Templates
-- SOPs & Process Manuals
-- Policies & Procedures
-- Internal Control Documentation
-- Workflow Mapping
-- Data Collection Systems
+- Professional Forms (Digital & Paper) — نماذج احترافية (رقمية وورقية)
+- HR / Financial / Administrative Forms — نماذج موارد بشرية/مالية/إدارية
+- Company Templates — قوالب الشركات
+- SOPs & Process Manuals — أدلة التشغيل وإجراءات العمل
+- Policies & Procedures — السياسات والإجراءات
+- Internal Control Documentation — توثيق الضبط الداخلي
+- Workflow Mapping & Diagrams — توثيق ورسم سير العمل
+- Data Collection Systems — أنظمة جمع البيانات
 
 ---
 
 ## 🧑‍💼 Human Resources (HR) | الموارد البشرية
-- Workforce Planning
-- Recruitment (Local & International)
-- Saudi & Non-Saudi Contracts
-- Job Descriptions & Evaluation
-- Performance Management (KPIs / OKRs)
-- Training & Development
-- Employee Relations & Investigations
-- End-of-Service Calculations
-- HR Policies & Compliance
-- Saudi Labor Law Application
+- Workforce Planning — تخطيط القوى العاملة
+- Recruitment (Local & International) — التوظيف المحلي والدولي
+- Saudi & Non-Saudi Contracts — العقود (سعودي/غير سعودي)
+- Job Descriptions & Evaluation — الوصف الوظيفي وتقييم الوظائف
+- Performance Management (KPIs / OKRs) — إدارة الأداء
+- Training & Development — التدريب والتطوير
+- Employee Relations & Investigations — علاقات الموظفين والتحقيقات
+- Disciplinary Actions — الجزاءات والإجراءات التأديبية
+- End-of-Service Calculations — حسابات نهاية الخدمة
+- HR Policies & Compliance — سياسات الموارد البشرية والامتثال
+- Saudi Labor Law Application — تطبيق نظام العمل السعودي
 
 ---
 
 ## 💰 Finance & Accounting | المالية
-- Budgeting & Financial Planning
-- Cash Flow Management
-- Cost Analysis
-- Financial Statements Understanding
-- VAT & Zakat Awareness
-- Audit Coordination
-- Financial Decision Support
+- Budgeting & Financial Planning — الميزانيات والتخطيط المالي
+- Cash Flow Management — إدارة التدفقات النقدية
+- Cost Analysis & Control — تحليل وضبط التكاليف
+- Financial Statements Understanding — فهم القوائم المالية
+- VAT & Zakat Awareness — ضريبة القيمة المضافة والزكاة
+- Audit Coordination — التنسيق مع التدقيق
+- Financial Decision Support — دعم القرار المالي
 
 ---
 
-## ⚖ Legal, Corporate & Saudi Regulations | القانون والأنظمة السعودية
-- Saudi Companies Law
-- Corporate Governance
-- Contract Review & Risk Awareness
-- Internal Regulations
-- GOSI (Social Insurance)
-- Qiwa Platform
-- Wage Protection (Mudad)
-- ZATCA (VAT, Zakat, E-Invoicing)
-- Absher Business & Government Platforms
-- Municipal Licensing
-- SAMA & CMA (Regulatory Awareness)
+## ⚖ Law, Corporate Governance & Compliance | القانون والحوكمة والامتثال
+- Saudi Companies Law — نظام الشركات السعودي
+- Corporate Governance Principles — مبادئ الحوكمة
+- Contract Review & Risk Awareness — مراجعة العقود وفهم المخاطر
+- Internal Regulations — اللوائح الداخلية
+- Regulatory Compliance Monitoring — متابعة الامتثال
+
+---
+
+## 🇸🇦 Saudi Regulations & Government Platforms | الأنظمة السعودية والمنصات الحكومية
+- GOSI (Social Insurance) — التأمينات الاجتماعية
+- Qiwa — منصة قوى (العقود/نقل الخدمات/الامتثال)
+- Mudad (Wage Protection) — حماية الأجور (مدد)
+- ZATCA (Zakat, VAT, E-Invoicing) — الزكاة والضريبة والجمارك + الفاتورة الإلكترونية
+- Absher Business & Government Platforms — أعمالي/أبشر ومنصات حكومية
+- Ministry of Commerce & Licensing Awareness — وزارة التجارة والتراخيص
+- Municipal Licensing Awareness — التراخيص البلدية
+- SAMA & CMA Awareness — ساما وهيئة سوق المال (فهم تنظيمي)
+
+---
+
+## 🏛 Company Formation & Business Setup | تأسيس الشركات
+- Legal Structure Selection — اختيار الكيان القانوني
+- Commercial Registration (CR) Awareness — السجل التجاري
+- Licensing & Approvals Coordination — التراخيص والموافقات
+- Partner & Ownership Structuring — هيكلة الشراكات والملكية
+- Governance Setup — إعداد الحوكمة الأساسية
+- Business Readiness for Operations — جاهزية التشغيل
 
 ---
 
 ## 📊 Business Analysis & Feasibility | التحليل ودراسات الجدوى
-- Market & Competitor Analysis
-- Business Model Design
-- Cost & Revenue Estimation
-- Financial & Operational Feasibility
-- Risk Analysis
-- Investment Decision Support
+- Market & Competitor Analysis — تحليل السوق والمنافسين
+- Business Model Design — تصميم نموذج العمل
+- Cost & Revenue Estimation — تقدير التكاليف والإيرادات
+- Financial & Operational Feasibility — الجدوى المالية والتشغيلية
+- Risk & Sensitivity Analysis — تحليل المخاطر والحساسية
+- Investment Decision Support — دعم القرار الاستثماري
 
 ---
 
 ## 🧠 Business, Life & Universal Skills | مهارات شاملة
-- Analytical & Critical Thinking
-- Problem Solving
-- Decision Making
-- Systems Thinking
-- Fast Learning
-- Adaptability Across Fields
-- Time & Priority Management
-- Clear Communication & Documentation
-- Understanding Human Behavior
-- Connecting Business, Technology & Reality
-
+- Analytical & Critical Thinking — التفكير التحليلي والنقدي
+- Problem Solving — حل المشكلات
+- Decision Making — اتخاذ القرار
+- Systems Thinking — التفكير النظمي
+- Fast Learning — التعلم السريع
+- Adaptability Across Fields — التكيف مع أي مجال
+- Time & Priority Management — إدارة الوقت والأولويات
+- Clear Communication & Documentation — تواصل وتوثيق واضح
+- Understanding Human Behavior — فهم سلوك البشر
+- Connecting Business, Technology & Reality — ربط التقنية بالإدارة والواقع
+- Big Picture + Detail Orientation — رؤية الصورة الكبيرة مع التفاصيل
 
 
 
