@@ -252,3 +252,40 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+---
+
+## 📂 Projects | المشاريع
+
+### 🔹 Automation Scripts | سكربتات الأتمتة
+🔗 https://github.com/arecruitment323-byte/automation-scripts  
+Automation scripts to optimize workflows and reduce manual tasks.  
+سكربتات أتمتة لتحسين سير العمل وتقليل المهام اليدوية.
+
+---
+
+### 🔹 Business Templates | قوالب الأعمال
+🔗 https://github.com/arecruitment323-byte/business-templates  
+Professional templates for policies, procedures, and business documentation.  
+قوالب احترافية للسياسات والإجراءات والتوثيق المؤسسي.
+
+---
+
+### 🔹 HR Forms (Saudi Arabia) | نماذج الموارد البشرية
+🔗 https://github.com/arecruitment323-byte/hr-forms-saudi  
+HR forms aligned with Saudi labor law and HR best practices.  
+نماذج موارد بشرية متوافقة مع نظام العمل السعودي.
+
+---
+
+### 🔹 Feasibility Studies Samples | نماذج دراسات الجدوى
+🔗 https://github.com/arecruitment323-byte/feasibility-studies-samples  
+Sample feasibility studies covering market, financial, and operational analysis.  
+نماذج دراسات جدوى تشمل التحليل السوقي والمالي والتشغيلي.
+
+---
+
+### 🔹 Design Samples | نماذج التصميم
+🔗 https://github.com/arecruitment323-byte/design-samples  
+Design samples with strong focus on Arabic clarity and professional presentation.  
+نماذج تصميم مع تركيز قوي على وضوح العربية والإخراج الاحترافي.
+
