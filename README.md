@@ -1,6 +1,11 @@
 ## 👋 Hi, I'm arecruitment323-byte
 
 ## 🚀 Skills
+## 🧰 Tech Stack & Tools
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python,js,ts,java,cpp,cs,php,html,css,react,nodejs,mysql,postgres,mongodb,git,github,docker,linux,windows,aws,azure,figma,canva" />
+</p>
 
 ### 👨‍💻 Programming & Development
 - Python, JavaScript, TypeScript
